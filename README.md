@@ -1,2 +1,2 @@
 # Pong
-Pong made in processing.
+The classic game 'Pong' made in proccesing with some added upgrades.
